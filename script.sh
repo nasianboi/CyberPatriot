@@ -1,5 +1,6 @@
 #!/bin/bash
-#CyberPatriot Ubuntu Script
+# CyberPatriot Ubuntu Script
+# AFJROTC
 
 function script {
     #Configs
